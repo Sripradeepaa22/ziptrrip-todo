@@ -1,0 +1,12 @@
+[
+  {
+    "id": "3370a7f4-4243-4fb6-bc94-23f882a59bd1",
+    "title": "Set up CI/CD pipeline",
+    "description": "Configure GitHub Actions for automated build and deployment.",
+    "priority": "high",
+    "dueDate": "2026-06-29",
+    "completed": false,
+    "createdAt": "2026-06-28T10:25:01.617Z",
+    "updatedAt": "2026-06-28T10:25:01.617Z"
+  }
+]
