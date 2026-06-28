@@ -74,6 +74,7 @@ All data is persisted in `backend/data/todos.json`.
  ## Screenshots
   ### Todo List Page
 <img width="1597" height="1087" alt="image" src="https://github.com/user-attachments/assets/1ef8f66a-49e0-4e13-a14e-67264344adce" />
+
 ### Single Todo Page
 <img width="1586" height="1058" alt="image" src="https://github.com/user-attachments/assets/97f864a2-8b3f-4440-a192-1ab4a2049a6c" />
  
